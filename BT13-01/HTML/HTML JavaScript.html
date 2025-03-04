@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First JavaScript <br>Đỗ Ngọc Toản - 2121051056</h1>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+<p id="demo"><br>Đỗ Ngọc Toản - 2121051056</p>
+
+<p>JavaScript can change the content of an HTML element:</p>
+<button type="button" onclick="myFunction()">Click Me!</button>
+<p id="demo.">This is a demonstration. <br> Nhấn vào nút "Click Me!" để hiện thông tin sin viên</p>
+<script>
+function myFunction() { 
+  document.getElementById("demo.").innerHTML = "Đỗ Ngọc Toản - 2121051056 ";
+}
+</script>
+
+<p id="demo2">Đỗ Ngọc Toản - 2121051056</p>
+<script>
+function myFunction22() {
+  document.getElementById("demo2").style.fontSize = "25px"; 
+  document.getElementById("demo2").style.color = "red";
+  document.getElementById("demo2").style.backgroundColor = "yellow";        
+}
+</script>
+<button type="button" onclick="myFunction22()">Click Me!</button>
+<hr>
+
+<script>
+    function light(sw) {
+      var pic;
+      if (sw == 0) {
+        pic = "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/08/05/Best-Shorekeeper-build-in-Wuthering-Waves-Weapons-Echoes-team-comp-2.jpg?width=1200&quality=60&format=auto"
+      } else {
+        pic = "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/08/05/Best-Shorekeeper-build-in-Wuthering-Waves-Weapons-Echoes-team-comp-2.jpg"
+      }
+      document.getElementById('myImage').src = pic;
+    }
+    </script>
+    
+    <img id="myImage" src="https://www.dexerto.com/cdn-image/wp-content/uploads/2024/08/05/Best-Shorekeeper-build-in-Wuthering-Waves-Weapons-Echoes-team-comp-2.jpg" width="640" height="408">
+    
+    <p>
+    <button type="button" onclick="light(1)">ShoreKeeper </button>
+    <button type="button" onclick="light(0)">ShoreKeeper </button>
+    </p>
+    
+</body>
+</html> 
