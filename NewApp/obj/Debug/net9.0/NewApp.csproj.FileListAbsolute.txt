@@ -1,0 +1,15 @@
+E:\ptpmql\Net_Core_API\NewApp\bin\Debug\net9.0\NewApp.exe
+E:\ptpmql\Net_Core_API\NewApp\bin\Debug\net9.0\NewApp.deps.json
+E:\ptpmql\Net_Core_API\NewApp\bin\Debug\net9.0\NewApp.runtimeconfig.json
+E:\ptpmql\Net_Core_API\NewApp\bin\Debug\net9.0\NewApp.dll
+E:\ptpmql\Net_Core_API\NewApp\bin\Debug\net9.0\NewApp.pdb
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfoInputs.cache
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfo.cs
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.csproj.CoreCompileInputs.cache
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.sourcelink.json
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.dll
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\refint\NewApp.dll
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.pdb
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
+E:\ptpmql\Net_Core_API\NewApp\obj\Debug\net9.0\ref\NewApp.dll
